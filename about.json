@@ -1,0 +1,10 @@
+{
+  "name": "discourse-material-icons-sharp",
+  "description": "Google Material Icons (Sharp) for Discourse",
+  "about_url": null,
+  "license_url": null,
+  "component": true,
+  "assets": {
+    "icons-sprite": "/assets/icons-sprite.svg"
+  }
+}
