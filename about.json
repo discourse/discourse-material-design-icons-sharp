@@ -1,6 +1,6 @@
 {
-  "name": "discourse-material-icons-sharp",
-  "description": "Google Material Icons (Sharp) for Discourse",
+  "name": "discourse-material-design-icons-sharp",
+  "description": "Material Design sharp icons for Discourse",
   "about_url": null,
   "license_url": null,
   "component": true,
