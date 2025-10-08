@@ -275,6 +275,6 @@ function initIcons(api) {
 export default {
   name: "material-design-icons-sharp",
   initialize() {
-    withPluginApi("0.10.1", initIcons);
+    withPluginApi(initIcons);
   },
 };
